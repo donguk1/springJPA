@@ -52,6 +52,6 @@ public class UserInfoEntity {
     @Column(name = "CHG_ID")
     private String chgId;
 
-    @Column(name = "chgDt")
+    @Column(name = "CHG_DT")
     private String chgDt;
 }
